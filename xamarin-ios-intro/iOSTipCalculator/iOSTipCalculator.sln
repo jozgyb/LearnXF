@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iOSTipCalculator", "iOSTipCalculator.csproj", "{87E7FC32-A39C-4B22-952E-7996568ACA93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87E7FC32-A39C-4B22-952E-7996568ACA93}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{87E7FC32-A39C-4B22-952E-7996568ACA93}.Debug|iPhone.Build.0 = Debug|iPhone
+		{87E7FC32-A39C-4B22-952E-7996568ACA93}.Debug|iPhone.Deploy.0 = Debug|iPhone
+		{87E7FC32-A39C-4B22-952E-7996568ACA93}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{87E7FC32-A39C-4B22-952E-7996568ACA93}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{87E7FC32-A39C-4B22-952E-7996568ACA93}.Debug|iPhoneSimulator.Deploy.0 = Debug|iPhoneSimulator
+		{87E7FC32-A39C-4B22-952E-7996568ACA93}.Release|iPhone.ActiveCfg = Release|iPhone
+		{87E7FC32-A39C-4B22-952E-7996568ACA93}.Release|iPhone.Build.0 = Release|iPhone
+		{87E7FC32-A39C-4B22-952E-7996568ACA93}.Release|iPhone.Deploy.0 = Release|iPhone
+		{87E7FC32-A39C-4B22-952E-7996568ACA93}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{87E7FC32-A39C-4B22-952E-7996568ACA93}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{87E7FC32-A39C-4B22-952E-7996568ACA93}.Release|iPhoneSimulator.Deploy.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0945A8B7-E55E-42CE-B33B-D1DC26BE61CC}
+	EndGlobalSection
+EndGlobal
